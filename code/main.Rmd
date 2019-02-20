@@ -1,0 +1,18 @@
+---
+Titulo: "Titulo do artigo"
+Autor: "Orlando Carlos Huertas Tavares"
+Data: "20 02 2019"
+---
+
+
+#control + alt + i
+
+```{r}
+2+2
+
+```
+
+```{r}
+
+```
+
