@@ -1,9 +1,12 @@
 ---
-Titulo: "Titulo do artigo"
-Autor: "Orlando Carlos Huertas Tavares"
-Data: "20 02 2019"
+title: "Titulo do artigo"
+author: "Orlando Carlos Huertas Tavares"
+data: "20 02 2019"
 ---
 
+```{r,  eval=FALSE}
+rmarkdown::render("main.Rmd", encoding = "UTF-8", output_dir = "../docs/")
+```
 
 #control + alt + i
 
